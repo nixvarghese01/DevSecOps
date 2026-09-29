@@ -1,3 +1,7 @@
+> **📌 Notes from Nixon Varghese**
+> Forked from [sottlmarek/DevSecOps](https://github.com/sottlmarek/DevSecOps) as a reference for **a curated DevSecOps library**. Reference for the shift-left security tooling I use (SonarQube, Trivy, Gitleaks and others).
+> All credit for the content goes to the original authors.
+
 # Ultimate DevSecOps library
 
 ## Contribution rules
